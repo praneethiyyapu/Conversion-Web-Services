@@ -11,7 +11,7 @@
 
 •Webservice URIs developed for this application are:
   
-  1.Pounds to Kg service: http://conversion-webservices.herokuapp.com/webapi/ptokservice/{input value}
+  1.Pounds to Kg service: http://conversion-webservices.herokuapp.com/webapi/ptokservice/ {input value}
   
-  2.Feet to cm service: http://conversion-webservices.herokuapp.com/webapi/ftocservice/{input value}
+  2.Feet to cm service: http://conversion-webservices.herokuapp.com/webapi/ftocservice/ {input value}
 
