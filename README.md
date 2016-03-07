@@ -7,4 +7,3 @@
 
 •Deployed the application to Heroku. Checkout the application at http://conversion-webservices.herokuapp.com/
 
-Note: Run the application on Google Chrome if you face any issue!
