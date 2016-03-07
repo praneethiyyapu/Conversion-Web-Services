@@ -3,6 +3,8 @@
 
 •Built the RESTful webservices with Java using JAX-RS 2.0 and Jersey framework.
 
-Checkout the application at http://192.168.1.188:8080/messenger/ 
+•Tested the application by writing JUnit test cases for the created java classes.
 
-Note: The application is not online always as I hosted the application on my local machine.
+•Deployed the application to Heroku. Checkout the application at http://conversion-webservices.herokuapp.com/
+
+Note: Run the application on Google Chrome if you face any issue!
