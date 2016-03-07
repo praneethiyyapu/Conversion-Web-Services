@@ -5,7 +5,7 @@
 
 •Tested the application by writing JUnit test cases for the created java classes.
 
-•Deployed the application to Heroku. Checkout the application at http://conversion-webservices.herokuapp.com/
+•Deployed the application to Heroku. Checkout the application at https://conversion-webservices.herokuapp.com/
 
 •The API call to the webservice returns XML data and it has been parsed to get the desired conversion.
 
