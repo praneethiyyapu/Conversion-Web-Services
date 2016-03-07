@@ -7,3 +7,9 @@
 
 •Deployed the application to Heroku. Checkout the application at http://conversion-webservices.herokuapp.com/
 
+•The API call to the webservice returns XML data and it has been parsed to get the desired conversion.
+
+•Webservice URIs developed for this application are:
+  1.Pounds to Kg service: http://conversion-webservices.herokuapp.com/webapi/ptokservice/<input value>
+  2.Feet to cm service: http://conversion-webservices.herokuapp.com/webapi/ftocservice/<input value>
+
